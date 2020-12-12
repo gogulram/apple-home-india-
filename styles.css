@@ -48,7 +48,7 @@ main{
   }
 #banner_one,#banner_two,#banner_three
 {
-       background-image: url('images/air.jpg');
+     
     background-size: cover;
     height:90vh;
     background-position-y:-50px ;
@@ -141,7 +141,7 @@ font-size:20px;
 }
 
 #box1 {
-    background-image: url('images/logo_large.png');
+   
     background-color:pink;
         
 }
@@ -151,7 +151,7 @@ font-size:20px;
 }
 
 #box2 {
-    background-image: url('images/apple-one.jpg');
+  
     color: black;
 }
 #box2 h5
@@ -161,12 +161,12 @@ font-size:20px;
 }
 
 #box3 {
-    background-image: url('images/ipad.jpg');
+   
     color:black;
 }
 
 #box4 {
-    background-image: url('images/imac.jpg');
+   
     color: black;
 }
 
@@ -177,7 +177,7 @@ color:white;
 }
 
 #box6 {
-    background-image: url('images/tv.jpg');
+   
     color: black;
 }
 a:hover {
